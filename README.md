@@ -1,2 +1,6 @@
 # FakeNewsDetection
-https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+Project members:
+
+Marten Türk
+Markus Herman Tiik
+Siim Langel
