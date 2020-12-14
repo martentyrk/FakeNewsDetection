@@ -22,9 +22,13 @@ We used 4 different models: Random Tree, Decision Tree, Logistic Regression and 
 Before training the models, we used TfidfVectorizer to remove the stop words from the articles and then transform the articles into vectors. That is because we can't give the models words to train with but numbers and vectors do a good job at that. 
 
 With the given dataset our prediction accuracies were the following:
+
 LogisticRegression accuracy: 0.97
+
 DecisionTreeClassifier accuracy: 0.98
+
 RandomForestClassifier accuracy: 0.94
+
 MultinomialNB accuracy: 0.92
 
 One of our goals was to get a model that could predict articles with a percentage of over 93% and as we can see we accomplished that with 3 models instead of just one.
